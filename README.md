@@ -7,8 +7,8 @@ but it has some nice layouts and a swift approach to handle products and cart.
 * Horizontal list view
 
 
-<img src="/img/cart.png" width="100">
+<img src="/img/cart.png" width="300">
 
-<img src="/img/shop.png" width="100">
+<img src="/img/shop.png" width="300">
 
-<img src="/img/login.png" width="100">
+<img src="/img/login.png" width="300">
